@@ -62,8 +62,7 @@ echo Setting Up Mubixs stuff..
 cd ~/pentest
 git clone https://github.com/mubix/post-exploitation-wiki.git mubix-post-exploitation-wiki
 git clone https://github.com/mubix/post-exploitation mubix-post-exploitation
-#git clone https://github.com/mubix/tools.git mubix-tools
- 
+
 
 echo Setting up Mainframed..
 cd ~/pentest
