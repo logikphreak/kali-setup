@@ -1,5 +1,6 @@
 # Kali Setup Script V1.0
 # Created by Jared Haviland - Sr. Researcher / Critical Assets
+# Updated and maintained by Patrick Kelley - Sr. Researcher / Hyperion Avenue Labs
 
 # This script installs a pre-determined set of tools and add-ons 
 # to increase the functionality of a Kali Linux Installation. It is 
@@ -98,3 +99,8 @@ mv bypassuac/uac /opt/metasploit/apps/pro/msf3/data/exploits
 # Install uzzing scripts for BeEF to /opt/SecLists
 cd /opt
 git clone https://github.com/danielmiessler/SecLists.git
+
+# Install Gitrob 
+cd /opt
+git clone https://github.com/logikphreak/gitrob.git
+cd gitrob
