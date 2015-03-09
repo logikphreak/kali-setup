@@ -35,7 +35,7 @@ cd smbexec
 # hit any key
 # choose 5
 
-# Install Veil to /opt/Viel
+# Install Veil to /opt/Veil
 cd /opt/
 git clone https://github.com/veil-evasion/Veil.git
 cd /Veil/setup
