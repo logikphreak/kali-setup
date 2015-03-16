@@ -108,3 +108,9 @@ git clone https://github.com/PyroTek3/PowerShell-AD-Recon.git
 cd /opt
 git clone https://github.com/logikphreak/gitrob.git
 cd gitrob
+
+#Install CMSMap
+cd /opt
+git clone https://github.com/Dionach/CMSmap.git
+cd CMSMap
+
