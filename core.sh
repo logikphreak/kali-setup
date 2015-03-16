@@ -100,6 +100,10 @@ mv bypassuac/uac /opt/metasploit/apps/pro/msf3/data/exploits
 cd /opt
 git clone https://github.com/danielmiessler/SecLists.git
 
+# Install PyroTek AD-Recon
+cd /opt
+git clone https://github.com/PyroTek3/PowerShell-AD-Recon.git
+
 # Install Gitrob 
 cd /opt
 git clone https://github.com/logikphreak/gitrob.git
