@@ -1,4 +1,4 @@
-! /bin/bash
+#!/bin/bash
 
 # Reset OpenVAS Vulnerability Scanner Script V1.0
 # By: Jared Haviland
